@@ -1,4 +1,4 @@
-![Header](./header.png)
+![Header](header.png)
 <div align="center">
   <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
   <h1>¡Hola! 👋 Soy [Tu Nombre]</h1>
